@@ -1,0 +1,468 @@
+*{
+    box-sizing: border-box;
+    list-style-type:none;
+
+}
+#div0{
+    background-image: url('Images/wallpaperflare.com_wallpaper(4).jpg');
+    height: 600px;
+    background-repeat: no-repeat;
+    border: none;
+    margin: -8px;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+
+}
+li{
+    float: right;
+    margin-left: 5px;
+    padding-left: 5px;
+    margin-right: 20px;
+    
+}
+section{
+    color: aliceblue;
+    overflow: auto;
+    clear: both;
+
+}
+.sec1h1{
+
+    margin:0 auto;
+    
+    max-width: 600px;
+    
+    text-align: center;
+    margin-top: 100px;
+
+
+}
+nav{
+    overflow: auto;
+    padding-right: 450px;
+    padding-top: 20px;
+    
+    
+}
+h1{
+    font-family: Overpass ;
+    font-size: 85px;
+
+}
+.s1h2{
+    font-family: Montserrat;
+    margin-top: -70px;
+    font-size: 35px;
+    font-weight: 400;
+
+}
+a{
+    color: azure;
+    font-family: Montserrat;
+    text-decoration: none;
+
+}
+.s1{
+    color: black;
+    overflow: auto;
+    width: 100%;
+    
+    
+    left: 16px;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 25px;
+
+}
+img{
+    padding-right: 10px;
+
+}
+p{
+    font-family: Montserrat;
+    font-size: 20px;
+    color: grey;
+    padding-top: 5px;
+    line-height: 30px;
+    padding-bottom: 50px;
+
+}
+button{
+    height: 70px;
+    width: 350px;
+    margin: 10px;
+    background-color: #ffff;
+    border:1px solid rgb(224, 221, 221);
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 25px;
+    font-weight: 300;
+
+}
+.but1{
+    width: 30px;
+    position: absolute;
+    top: 25px;
+    right: 50px;
+    border: none;
+    height: 20px;
+    cursor: pointer;
+    
+}
+.sec5{
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+
+}
+.country{
+    color: rgb(0, 0, 0);
+    font-family: Comme;
+    font-weight: 400;
+    font-size: 25px;
+    padding-left: 350px;
+    font-weight: 400;
+    margin: 0 auto;
+
+}
+.h1h1{
+    font-family: Montserrat;
+    font-weight: 400;
+
+}
+.ssh2{
+    font-weight: 400;
+
+}
+.countrys1{
+    position: relative;
+    display: inline-block;
+
+}
+.img1{
+    object-position: left;
+    object-position: center;
+
+}
+#in1{
+ background-image: url('Images/indianflag.png');
+ height: 50px;
+ width: 50px;
+
+}
+#span1{
+    position: relative;
+    bottom: 5px;
+
+}
+#img5{
+    height: 70px;
+    width: 60px;
+
+}
+#span3{
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+
+}
+.divv{
+    height: 30px;
+    width: 50px;
+    display: inline-block;
+    background-image: url('Images/chileee.png');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    border-radius: 5px;
+
+}
+#span2{
+    position: relative;
+    bottom: 30px;
+
+}
+.divv2{
+    background-image: url('Images/Ireland.png');
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 30px;
+    width: 50px;
+
+}
+.divv3{
+    background-image: url('Images/ppoland.png');
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 30px;
+    width: 50px;
+
+}
+.divv4{
+    background-image: url('Images/singapore.jpeg');
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 30px;
+    width: 50px;
+
+}
+.divv5{
+    background-image: url('Images/srilanka.jpeg');
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 30px;
+    width: 50px;
+
+}
+.divv6{
+    background-image: url('Images/uk.png');
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 30px;
+    width: 50px;
+
+}
+footer{
+    
+    background-color: #F8F8F8;
+    width: 100%;
+    overflow: auto;
+    height: 650px;
+
+}
+.fh2{
+    font-family: overpass;
+    font-size: 40px;
+    color: black;
+    width: 100%;
+    clear: both;
+
+}
+.divvv1{
+    width: 100%;
+
+}
+.divh2{
+    font-family: overpass;
+    font-size: 40px;
+    margin-left: 360px;
+    margin-top: 80px;
+
+}
+.butin{
+    height: 40px;
+    width: 140px;
+    border: 1px solid grey;
+    background-color: #F8F8F8;
+    cursor:pointer;
+    float: right;
+    margin-top: -75px;
+    margin-right: 350px;
+
+}
+.buten{
+    height:40px;
+    width: 150px;
+    border: 1px solid grey;
+    background-color: #F8F8F8;
+    float: right;
+    margin-right: 550px;
+    cursor: pointer;
+    margin-top: -75px;
+
+}
+.img1111{
+    height: 20px;
+    width: 40px;
+
+}
+#but1{
+    position: relative;
+    top:4px;
+
+}
+#img1{
+    cursor: pointer;
+
+}
+#eng1{
+    position: relative;
+    bottom: 4px;
+
+}
+.divvv2{
+    width: 65%;
+    
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+.aboutzo{
+    line-height: 30px;
+    height: 300px;
+    width: 200px;
+
+}
+.zomavers{
+    height: 300px;
+    width: 200px;
+    line-height: 30px;
+
+}
+.forrestaturants{
+    height: 300px;
+    width: 250px;
+    line-height: 30px;
+
+
+}
+.learn{
+    height: 300px;
+    width: 200px;
+    line-height: 30px;
+    
+
+
+
+}
+.social{
+    height: 300px;
+    width: 200px;
+    line-height: 30px;
+    
+
+}
+.handle{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 2px solid black;
+    display: inline-block;
+    margin-left: 5px;
+    
+}
+.weight{
+    font-weight: 5px;
+    font-size: medium;
+}
+.grey{
+    color: grey;
+    cursor: pointer;
+
+}
+.linee{
+    border-top: 2px solid black;
+    width: 65%;
+    margin: 0 auto;
+
+}
+p{
+    font-size: small;
+
+}
+.pp{
+    font-size: large;
+}
+
+#linkdin{
+    background-image: url('Images/linkedin_black_logo_icon_147114.png');
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+
+}
+#instagram{
+    background-image: url('Images/instagram.png');
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+
+}
+#facebook{
+    background-image: url('Images/pngwing.com(1).png');
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+    
+
+}
+#twitter{
+    background-image: url('Images/twitter.png');
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+
+
+}
+#youtube{
+    background-image: url('Images/twitter.png');
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+
+    
+}
+button{
+    cursor: pointer;
+
+}
+.store{
+    
+    height: 150px;
+    width: 150px;
+    margin-top: -15px;
+    margin-right: 300px;
+    background-image: url('Images/googleplaystore.png');
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+    border-radius: 10px;
+
+}
+.forbottom{
+    margin: 0 auto;
+
+}
+@media screen and (max-width:1134px) {
+    nav{
+        text-align: center;
+        padding-right: 0px;
+
+    }
+    li{
+        float: left;
+        margin-right: 0px;
+    }
+    
+}
+@media screen and (max-width:200px) {
+    .forbottom{
+        display: flex;
+        flex-flow: wrap;
+        width: 600px;
+        
+    
+
+    
+}
+
+
+
+
+
+
+
+    

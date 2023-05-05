@@ -212,6 +212,7 @@ button{
     height: 30px;
     width: 50px;
 
+
 }
 .divv5{
     background-image: url('Images/srilanka.jpeg');
@@ -221,6 +222,7 @@ button{
     position: relative;
     height: 30px;
     width: 50px;
+
 
 }
 .divv6{
@@ -309,6 +311,7 @@ footer{
     flex-direction: row;
     justify-content: space-around;
     margin: 0 auto;
+
 }
 .aboutzo{
     line-height: 30px;
@@ -357,6 +360,7 @@ footer{
 .weight{
     font-weight: 5px;
     font-size: medium;
+
 }
 .grey{
     color: grey;
@@ -446,7 +450,7 @@ button{
         float: left;
         margin-right: 0px;
     }
-    
+
 }
 @media screen and (max-width:200px) {
     .forbottom{
@@ -454,10 +458,13 @@ button{
         flex-flow: wrap;
         width: 600px;
         
+}
+}
+    
     
 
     
-}
+
 
 
 
